@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install hanami-font-awesoem
+    $ gem install hanami-font-awesome
 
 ## Usage
 Add it to your template:
